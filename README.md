@@ -1,2 +1,2 @@
 # Exploration
-Eploration is a hackathon
+Exploration is a hackathon
